@@ -1,4 +1,0 @@
-variable rolename {
-  type        = string
-  
-}
