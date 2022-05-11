@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"pagerduty","Source":"./modules/user","Dir":"modules/user"},{"Key":"membership","Source":"./modules/membership","Dir":"modules/membership"},{"Key":"team","Source":"./modules/team","Dir":"modules/team"},{"Key":"user","Source":"./modules/user","Dir":"modules/user"}]}
